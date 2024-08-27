@@ -33,3 +33,16 @@ This Timer app provides users with a multifunctional time management tool that i
 - **Usage:** Capture specific times (e.g., lap times) by adding flags.
 - **Display:** The app maintains a list of all flags generated during a session, displaying the exact times they were marked.
 
+
+### Output
+
+- **Images**:
+<img src="https://github.com/user-attachments/assets/76a1add8-9dd7-495b-bfa0-d99906196f9a" height=600 width=300 >
+<img src="https://github.com/user-attachments/assets/8bf0d606-bea3-4b6e-b61a-eea35a6306ae" height=600 width=300 >
+<img src="https://github.com/user-attachments/assets/abe4be29-fb94-4fc2-b7df-dd7a931af793" height=600 width=300 >
+<img src="https://github.com/user-attachments/assets/4a221b57-b9a3-40c0-9614-b0e3c9b911c2" height=600 width=300 >
+<img src="https://github.com/user-attachments/assets/708b93a2-9c3f-4a62-a2a0-c49900390511" height=600 width=300 >
+<img src="https://github.com/user-attachments/assets/639862ba-df8f-47f1-8461-af3d4e8cf7b0" height=600 width=300 >
+<img src="https://github.com/user-attachments/assets/e3b6fa1b-52ec-45ac-b083-2b7a028df9ac" height=600 width=300 >
+<img src="https://github.com/user-attachments/assets/9fe016ae-41ec-468d-87d4-f0e8886fcd73" height=600 width=300 >
+
